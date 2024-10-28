@@ -1,3 +1,5 @@
+# Pandas Notebooks
+
 -This directory contains my Python data analysis practice notebooks, with a focus on building foundational skills using Pandas. Each notebook documents exercises and projects aimed at deepening my data manipulation, analysis, and visualization capabilities.
 
 ## Directory Structure
